@@ -6,6 +6,8 @@ http://wiki.unity3d.com/index.php?title=CSharpNotificationCenter
 そのためオリジナルに敬意を払いつつ、リファクタリングしたものをこちらで公開させていただきます。  
 
 # 使い方
+1. NotificationCenter.cs を Unity のプロジェクトに含めます
+2. 受信側・送信側に、以下のようなソースコードを記述します。
 ## 受信側
 
 ```
