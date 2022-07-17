@@ -1,4 +1,4 @@
-/*!
+/*
  * NotificationCenter.cs
  *
  * Copyright (c) 2022 tomoaki
